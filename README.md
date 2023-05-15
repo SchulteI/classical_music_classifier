@@ -5,3 +5,4 @@
 
  Accuracy Results:
     - Version 1: accuracy of 68% on test data
+    ![Alt text](output.png)
