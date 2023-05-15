@@ -1,4 +1,4 @@
-# classical_music_classifier
+# Classical_Music_Classifier
  A CNN to classify classical music pieces based on their composer.
 
  Dataset used: MusicNet https://www.kaggle.com/datasets/imsparsh/musicnet-dataset
